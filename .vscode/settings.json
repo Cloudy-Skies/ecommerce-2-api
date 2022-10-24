@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "eu-cdbr-west-03.cleardb.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "b2a21de5a2ce10",
+            "password": "1b17406f",
+            "database": "heroku_408a343ea3e0bac",
+            "name": "Heroku Quiz Test"
+        }
+    ]
+}
