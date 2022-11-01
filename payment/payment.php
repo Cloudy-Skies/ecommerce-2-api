@@ -38,7 +38,8 @@
       <button type="button" onclick="payWithPaystack()"> Pay </button>
 
       </div>
-
+      <!-- <b></b>
+      <a href="../index.php"><button>Go back</button></a> -->
     </form>
 
 
