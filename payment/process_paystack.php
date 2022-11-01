@@ -7,7 +7,7 @@
   <title>PayStack Processing</title>
 </head>
 <body>
-  <h1>Details captured below:</h1>
+  <h1>Details captured above:</h1>
   <b></b>
   
 </body>
